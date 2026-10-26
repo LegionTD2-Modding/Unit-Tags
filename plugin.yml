@@ -1,0 +1,9 @@
+id: kidev.unit-tags
+name: Unit tags
+version: 0.1.1
+author: kidev
+description: Puts a name from your list above each fighter you place.
+proleak: ">=0.1"
+entry: main.py
+update:
+  github: LegionTD2-Modding/unit-tags
